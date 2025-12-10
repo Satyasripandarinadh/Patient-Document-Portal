@@ -1,4 +1,3 @@
-# Patient-Document-Portal
 # 🏥 Patient Document Portal
 
 A modern, full-stack web application for managing and uploading patient documents securely. Built with **React**, **Vite**, **Express.js**, and **SQLite3**.
